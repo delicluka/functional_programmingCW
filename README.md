@@ -1,1 +1,1 @@
-# functional_programmingCW
+For this assignment, I will write a Haskell program capable of playing Connect Four against a human opponent. The computer player will be implemented using the minimax algorithm, which is a recursive algorithm that is likely to results in a level of play that can beat novice players.
